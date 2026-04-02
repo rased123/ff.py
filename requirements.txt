@@ -1,1 +1,2 @@
 aiogram
+worker: python ff.py
